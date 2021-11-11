@@ -20,7 +20,7 @@ canvas {
 
 h2 {
     padding: 10px;
-    border-bottom: pink solid 2px;
+    border-bottom: pink groove 2px;
 }
 
 h1, h2 {
