@@ -1,7 +1,7 @@
 body {
     background: purple;
     font-family: monospace;
-    color: lightgrey;
+    color: lightpink;
     height: 100%;
     text-align: center;
     font-size: 20px;
@@ -13,7 +13,18 @@ body {
 }
 
 canvas {
-    color: lightgrey;
-    border: lightgrey dashed 2px;
+    color: lightgreen;
+    border: lightgreen dashed 2px;
     padding: 20px;
+}
+
+h2 {
+    padding: 10px;
+    border-bottom: pink solid 2px;
+}
+
+h1, h2 {
+	font-weight: 100;
+	text-transform: uppercase;
+    margin: 5px 0;
 }
